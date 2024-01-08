@@ -4,6 +4,12 @@
     box-sizing: border-box;
 
 }
+@media screen and (max-width:400px) {
+    #ana{
+        background-color: blue;
+    }
+    
+}
 #ana{
     padding: 10px;
     border-style: solid;
